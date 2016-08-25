@@ -1,0 +1,24 @@
+{
+  "name": "node-book-app",
+  "description": "A simple application built with nodejs, express, mongodb via mongoose, gulp and a few other npm packages",
+  "main": "app.js",
+  "authors": [
+    "Pius Nyakoojo"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "books"
+  ],
+  "homepage": "http://getbootstrap.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "font-awesome": "^4.6.3"
+  }
+}
